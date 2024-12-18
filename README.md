@@ -1,5 +1,38 @@
 # Self-learning-Computer-Science
 
+代码暂时存放仓库
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![License](https://img.shields.io/badge/license-MIT%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 **News: 中文版已发布，请点击[这里](https://github.com/PKUFlyingPig/cs-self-learning).**
