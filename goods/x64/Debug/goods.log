@@ -1,0 +1,6 @@
+﻿  core.c
+F:\GoodS\goods\core.c(316,13): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+F:\GoodS\goods\core.c(316,13): message : 此参数用作缓冲区大小
+F:\GoodS\goods\core.c(354,13): warning C4477: “scanf_s”: 格式字符串“%49s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+F:\GoodS\goods\core.c(354,13): message : 此参数用作缓冲区大小
+  goods.vcxproj -> F:\GoodS\goods\x64\Debug\goods.exe

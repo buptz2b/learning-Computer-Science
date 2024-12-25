@@ -1,0 +1,199 @@
+P0001     	InstantCoffee_1    	        Food     206	                                               This is a detailed description of the Instant Coffee.
+
+P0002     	TeaLeaves_1        	    Food     	  59                                                   This is a detailed description of the Tea Leaves.                                                            
+
+P0003     	Biscuits_1          	    Food        	216                                                      	This is a detailed description of the Biscuits.                                                              
+
+P0004     	BoardGame_1        	 Toys        	931                                                      	This is a detailed description of the Board Game.                                                            
+
+P0005     	WirelessEarbuds_1  	Electronics  	442                                                  This is a detailed description of the Wireless Earbuds.      
+                                                
+P0006     	Mattress_1          	Home         	185                                                      	This is a detailed description of the Mattress.  
+                                                            
+P0007     	DeskLamp_1         	Home         	953                                                  This is a detailed description of the Desk Lamp.   
+                                                          
+P0008     	Smartphone_1        	Electronics  	236                                                  This is a detailed description of the Smartphone.   
+                                                         
+P0009     	Biscuits_2          	Food         	382                                                      	This is a detailed description of the Biscuits.       
+                                                       
+P0010     	Sneakers_1          	Clothing     	58                                                       	This is a detailed description of the Sneakers.      
+                                                        
+P0011     	T-Shirt_1           	Clothing     	275                                                      	This is a detailed description of the T-Shirt.      
+                                                         
+P0012     	Nuts_1              	Food         	882                                                      	This is a detailed description of the Nuts.        
+                                                          
+P0013     	Jeans_1             	Clothing     	795                                                      	This is a detailed description of the Jeans.        
+                                                         
+P0014     	Smartwatch_1        	Electronics  	179                                                      	This is a detailed description of the Smartwatch.      
+                                                      
+P0015     	WirelessEarbuds_2  	Electronics  	580                                                      	This is a detailed description of the Wireless Earbuds.     
+                                                 
+P0016     	Dress_1             	Clothing     	277                                                      	This is a detailed description of the Dress.     
+                                                            
+P0017     	Smartphone_2        	Electronics  	215                                                      	This is a detailed description of the Smartphone.     
+                                                       
+P0018     	TeaLeaves_2        	Food         	      483                                                	This is a detailed description of the Tea Leaves.    
+                                                        
+P0019     	BuildingBlocks_1   	Toys         	     514                                  	                This is a detailed description of the Building Blocks.     
+                                                  
+P0020     	BuildingBlocks_2   	Toys         	563                                                      	This is a detailed description of the Building Blocks.      
+                                                 
+P0021     	DeskLamp_2         	Home         	684                                                      	This is a detailed description of the Desk Lamp.       
+                                                      
+P0022     	Jeans_2             	Clothing     	986                                                      	This is a detailed description of the Jeans.     
+                                                            
+P0023     	DeskLamp_3         	Home         	51                                                       	This is a detailed description of the Desk Lamp.     
+                                                        
+P0024     	BoardGame_2        	Toys         	231                                                      	This is a detailed description of the Board Game.    
+                                                        
+P0025     	WirelessEarbuds_3  	Electronics  	673                                                      	This is a detailed description of the Wireless Earbuds.       
+                                               
+P0026     	Dress_2             	         Clothing     	932                                                      	This is a detailed description of the Dress.                         
+                                        
+P0027     	T-Shirt_2                     	Clothing     	       944                                                      	This is a detailed description of the T-Shirt.       
+                                                        
+P0028     	Mattress_2          	Home         	       757                                                      	This is a detailed description of the Mattress.     
+                                                         
+P0029     	Dress_3             	Clothing     	       279                                                      	This is a detailed description of the Dress.             
+                                                    
+P0030     	Sofa_1              	Home         	       106                                                      	This is a detailed description of the Sofa.    
+                                                              
+P0031     	Smartphone_3        	Electronics  	665                                                      	This is a detailed description of the Smartphone.    
+                                                        
+P0032     	Chocolate_1         	Food         	612                                                      	This is a detailed description of the Chocolate.    
+                                                         
+P0033     	Smartphone_4        	Electronics  	47                                                       	This is a detailed description of the Smartphone.    
+                                                        
+P0034     	Wardrobe_1          	Home         	595                                                      	This is a detailed description of the Wardrobe.      
+                                                        
+P0035     	Mattress_3          	Home         	13                                                       	This is a detailed description of the Mattress.  
+                                                            
+P0036     	Nuts_2              	Food         	53                                                       	This is a detailed description of the Nuts.   
+                                                               
+P0037     	RemoteControlCar_1	Toys         	858                                                      	This is a detailed description of the Remote Control Car.    
+                                                
+P0038     	InstantCoffee_2    	Food         	361                                                      	This is a detailed description of the Instant Coffee.  
+                                                      
+P0039     	Smartphone_5        	Electronics  	494                                                      	This is a detailed description of the Smartphone.   
+                                                         
+P0040     	Mattress_4          	Home         	564                                                      	This is a detailed description of the Mattress.          
+                                                    
+P0041     	InstantCoffee_3   	Food         	819                                                      	This is a detailed description of the Instant Coffee.       
+                                                 
+P0042     	Wardrobe_2          	Home         	808                                                      	This is a detailed description of the Wardrobe.         
+                                                     
+P0043     	Doll_1              	Toys         	923                                                      	This is a detailed description of the Doll. 
+                                                                 
+P0044     	Smartphone_6        	Electronics  	747                                                      	This is a detailed description of the Smartphone.        
+                                                    
+P0045     	Nuts_3              	Food         	74                                                       	This is a detailed description of the Nuts.             
+                                                     
+P0046     	Jeans_3             	Clothing     	613                                                      	This is a detailed description of the Jeans.      
+                                                           
+P0047     	InstantCoffee_4    	Food         	450                                                      	This is a detailed description of the Instant Coffee.        
+                                                
+P0048     	Laptop_1            	Electronics  	677                                                      	This is a detailed description of the Laptop.            
+                                                    
+P0049     	Jacket_1            	Clothing     	226                                                      	This is a detailed description of the Jacket.          
+                                                      
+P0050     	Sofa_2              	Home         	923                                                      	This is a detailed description of the Sofa.             
+                                                     
+P0051     	InstantCoffee_5    	Food         	995                                                      	This is a detailed description of the Instant Coffee.      
+                                                  
+P0052     	RemoteControlCar_2	Toys         	82                                                       	This is a detailed description of the Remote Control Car.       
+                                             
+P0053     	DeskLamp_4         	Home         	72                                                       	This is a detailed description of the Desk Lamp.     
+                                                        
+P0054     	Smartwatch_2        	Electronics  	950                                                      	This is a detailed description of the Smartwatch.     
+                                                       
+P0055     	BoardGame_3        	Toys         	462                                                      	This is a detailed description of the Board Game.     
+                                                       
+P0056     	TeaLeaves_3        	Food         	582                                                      	This is a detailed description of the Tea Leaves.  
+                                                          
+P0057     	Smartphone_7        	Electronics  	960                                                      	This is a detailed description of the Smartphone.    
+                                                        
+P0058     	TeaLeaves_4        	Food         	539                                                      	This is a detailed description of the Tea Leaves.      
+                                                      
+P0059     	Nuts_4              	Food         	902                                                      	This is a detailed description of the Nuts.               
+                                                   
+P0060     	Puzzle_1            	Toys         	550                                                      	This is a detailed description of the Puzzle.                  
+                                              
+P0061     	Chocolate_2         	Food         	823                                                      	This is a detailed description of the Chocolate.   
+                                                          
+P0062     	InstantCoffee_6    	Food         	728                                                      	This is a detailed description of the Instant Coffee.   
+                                                     
+P0063     	RemoteControlCar_3	Toys         	479                                                      	This is a detailed description of the Remote Control Car.    
+                                                
+P0064     	Nuts_5              	Food         	911                                                      	This is a detailed description of the Nuts.                      
+                                            
+P0065     	Biscuits_3          	Food         	434                                                      	This is a detailed description of the Biscuits.                    
+                                          
+P0066     	DiningTable_1      	Home         	290                                                      	This is a detailed description of the Dining Table.      
+                                                    
+P0067     	TeaLeaves_5        	Food         	152                                                      	This is a detailed description of the Tea Leaves.          
+                                                  
+P0068     	Doll_2              	Toys         	733                                                      	This is a detailed description of the Doll.                                     
+                             
+P0069     	Nuts_6              	Food         	339                                                      	This is a detailed description of the Nuts.                            
+                                      
+P0070     	Sofa_3              	Home         	666                                                      	This is a detailed description of the Sofa.                           
+                                       
+P0071     	Jacket_2            	Clothing     	479                                                      	This is a detailed description of the Jacket.                          
+                                      
+P0072     	Biscuits_4          	Food         	666                                                      	This is a detailed description of the Biscuits.                            
+                                  
+P0073     	Puzzle_2            	Toys         	634                                                      	This is a detailed description of the Puzzle.                                                       
+         
+P0074     	TeaLeaves_6        	Food         	367                                                      	This is a detailed description of the Tea Leaves.                               
+                             
+P0075     	Chocolate_3         	Food         	686                                                      	This is a detailed description of the Chocolate.                                   
+                          
+P0076     	Laptop_2            	Electronics  	446                                                      	This is a detailed description of the Laptop.                                             
+                   
+P0077     	Jeans_4             	Clothing     	90                                                       	This is a detailed description of the Jeans.                                               
+                  
+P0078     	Jeans_5             	Clothing     	264                                                      	This is a detailed description of the Jeans.                                                
+                 
+P0079     	BoardGame_4        	Toys         	145                                                      	This is a detailed description of the Board Game.                                      
+                      
+P0080     	Sneakers_2          	Clothing     	477                                                      	This is a detailed description of the Sneakers.                             
+                                 
+P0081     	Jeans_6             	Clothing     	462                                                      	This is a detailed description of the Jeans.                                  
+                               
+P0082     	Chocolate_4         	Food         	349                                                      	This is a detailed description of the Chocolate.                        
+                                     
+P0083     	Chocolate_5         	Food         	108                                                      	This is a detailed description of the Chocolate.                            
+                                 
+P0084     	Puzzle_3            	Toys         	677                                                      	This is a detailed description of the Puzzle.                                                         
+       
+P0085     	Tablet_1            	Electronics  	954                                                      	This is a detailed description of the Tablet.                                        
+                        
+P0086     	Jacket_3            	Clothing     	99                                                       	This is a detailed description of the Jacket.                                              
+                  
+P0087     	Sneakers_3          	Clothing     	160                                                      	This is a detailed description of the Sneakers.                                        
+                      
+P0088     	Jeans_7             	Clothing     	448                                                      	This is a detailed description of the Jeans.                                    
+                             
+P0089     	Chocolate_6         	Food         	147                                                      	This is a detailed description of the Chocolate.  
+                                                           
+P0090     	RemoteControlCar_4	Toys         	410                                                      	This is a detailed description of the Remote Control Car.  
+                                                  
+P0091     	Chocolate_7         	Food         	834                                                      	This is a detailed description of the Chocolate.  
+                                                           
+P0092     	InstantCoffee_7    	Food         	55                                                       	This is a detailed description of the Instant Coffee.     
+                                                   
+P0093     	Sneakers_4          	Clothing     	657                                                      	This is a detailed description of the Sneakers.   
+                                                           
+P0094     	Wardrobe_3          	Home         	929                                                      	This is a detailed description of the Wardrobe.         
+                                                     
+P0095     	InstantCoffee_8    	Food         	144                                                      	This is a detailed description of the Instant Coffee.       
+                                                 
+P0096     	Jeans_8             	Clothing     	956                                                      	This is a detailed description of the Jeans.                      
+                                           
+P0097     	Sneakers_5          	Clothing     	215                                                      	This is a detailed description of the Sneakers.                 
+                                             
+P0098     	Smartphone_8        	Electronics  	101                                                      	This is a detailed description of the Smartphone.       
+                                                     
+P0099     	Chocolate_8         	Food         	255                                                      	This is a detailed description of the Chocolate.          
+                                                   
+P0100     	Sofa_4              	Home         	615                                                      	This is a detailed description of the Sofa.                                                                  
